@@ -5,9 +5,8 @@ const burger = {name: "Burger", price: 18, category: "Lunch"};
 const breakfastBurrito = {name: "Breakfast Burrito", price: 16, category:"Breakfast"};
 
 /* Task 1a: write a function to return more menu items with the same format as the items above. */
-
 function createMenuItem(name, cost, category){
-  const coffee = {name: "Americano", price: 5, category: "drinks"}
+  const coffee = {name: "Americano", price: 7, category: "drinks"}
 console.log(coffee)
 }
 
